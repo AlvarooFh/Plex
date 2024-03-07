@@ -13,3 +13,7 @@ Ahora podemos saber cuál es la máquina atacante ya que estamos en VMware y la 
 ## Conectividad con la máquina atacante
 
 Comprobamos que tenemos conectividad
+
+`ping -c1 192.168.95.104`
+
+![captura-conect](https://github.com/AlvarooFh/Plex/assets/148774363/94c0ee16-a204-4669-834f-52d790faa339)
